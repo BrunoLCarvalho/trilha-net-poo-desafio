@@ -14,4 +14,4 @@ Console.WriteLine();
 Console.WriteLine("Smartphone NOKIA");
 nokia1.Ligar();
 nokia1.ReceberLigacao();
-nokia1.InstalarAplicativo("Messenger");
+nokia1.InstalarAplicativo("Messenge");
